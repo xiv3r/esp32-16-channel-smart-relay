@@ -5,8 +5,23 @@
 - ESP32 38Pins
 - 2 Dupont wire
 
+# Libraries
+- ArduinoJson
+- NTPClient
+
 # Install 
 - Download the firmware and flash using 0x0 offset
+- pc
+  . esptool
+  . flash download tool
+  . esp flasher
+  . chrome browser
+  
+- android (otg)
+  . arduinodroid apk
+  . esp32 flash apk
+  . espflash apk
+  . blynk loader apk
   
 # Wifi Key
 - Wifi Name: `ESP32_16CH_Smart_Switch`
