@@ -4,7 +4,7 @@
 - 16 Channel Relay
 - ESP32 38Pins
 - 2 Dupont wire
-- 
+
 # Install 
 - Download the firmware and flash using 0x0 offset
 - 
