@@ -7,7 +7,7 @@
 
 # Install 
 - Download the firmware and flash using 0x0 offset
-- 
+  
 # Wifi Key
 - Wifi Name: `ESP32_16CH_Smart_Switch`
 
