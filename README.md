@@ -11,6 +11,7 @@
 
 # Install 
 - Download the firmware and flash using 0x0 offset
+```
 - pc
   . esptool
   . flash download tool
@@ -22,7 +23,8 @@
   . esp32 flash apk
   . espflash apk
   . blynk loader apk
-  
+  ```
+
 # Wifi Key
 - Wifi Name: `ESP32_16CH_Smart_Switch`
 
