@@ -34,23 +34,24 @@
 # GPIO Connections
 ```
 RELAY      ESP32 38P pins
-IN1  _______ 32
-IN2  _______ 33
-IN3  _______ 25
-IN4  _______ 26
-IN5  _______ 27
-IN6  _______ 14
-IN7  _______ 16
-IN8  _______ 17
-IN9  _______ 18
-IN10 _______ 19
-IN11 _______ 21
-IN12 _______ 22
-1N13 _______ 23
-IN14 _______ 4
-IN15 _______ 5
-IN16 _______ 13 
+IN1 - 32
+IN2 - 33
+IN3 - 25
+IN4 - 26
+IN5 - 27
+IN6 - 14
+IN7 - 12
+IN8 - 13
+IN9 - 15
+IN10 - 2
+IN11 - 4
+IN12 - 16
+IN13 - 17
+IN14 - 5
+IN15 - 18
+IN16 - 19
 ```
+
 # Full Features
 ## 🔌 Relay Control System
 · 16 Independent Relay Channels - GPIO pin configurable
