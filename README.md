@@ -51,8 +51,11 @@ IN14 - 5
 IN15 - 18
 IN16 - 19
 ```
-
+<details><summary>
+  
 # Full Features
+</summary>
+
 ## 🔌 Relay Control System
 · 16 Independent Relay Channels - GPIO pin configurable
 
@@ -210,3 +213,4 @@ Endpoint Method Purpose
 · Security lighting schedules
 
 · Energy management systems
+</details>
