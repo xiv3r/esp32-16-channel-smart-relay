@@ -35,23 +35,25 @@
 
 # GPIO Connections
 ```
-RELAY      ESP32 38P pins
-IN1 - 32
-IN2 - 33
-IN3 - 25
-IN4 - 26
-IN5 - 27
-IN6 - 14
-IN7 - 12
-IN8 - 13
-IN9 - 15
-IN10 - 2
-IN11 - 4
-IN12 - 16
-IN13 - 17
-IN14 - 5
-IN15 - 18
-IN16 - 19
+RELAY     ESP32 30P/38P
+VCC _____ 5VIN 
+IN1 _____ 16
+IN2 _____ 17
+IN3 _____ 18
+IN4 _____ 19
+IN5 _____ 21
+IN6 _____ 22
+IN7 _____ 23
+IN8 _____ 25
+IN9 _____ 26
+IN10 _____ 27
+IN11 _____ 32
+IN12 _____ 33
+IN13 _____ 14
+IN14 _____ 15
+IN15 _____ 4
+IN16 _____ 5
+GND _____ GND
 ```
 <details><summary>
   
